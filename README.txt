@@ -54,6 +54,6 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
-Echo por Carlos Adrian Soto Botero.
+Echo por Alan Daniel Villatoro Ochoa.
 http://localhost:8080/amil@gmail.com
 
